@@ -6,3 +6,4 @@ your Jenkins master using the global CPS library.
 
 This comes from the [CloudBeers demo](https://github.com/cloudbeers/multibranch-demo).
 End
+
